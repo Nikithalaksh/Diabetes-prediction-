@@ -11,7 +11,7 @@ Numpy and
 sklearn for metrics and accuracy.
 
 
-### The model
+## The model Design
 
 This is being modelled by different factors,they are: 
 Separating the model through the Outcome. 
